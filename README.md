@@ -1,11 +1,34 @@
-# https://www.youtube.com/watch?v=GtLZCVhHz5w&t=145s
+# 🧠 Prompt Engineering — Basic to Advanced
 
-# https://www.youtube.com/shorts/fZtBE8D780I
+A practical **Prompt Engineering** project that demonstrates how to design, improve, test, and optimize prompts for Generative AI and Large Language Models (LLMs).
 
-# https://www.youtube.com/watch?v=HvqtHmeblvQ (LIVE WORKSHOP VIDEO) - (SHARE, LIKE & COMMENT THIS VIDEO)
+This repository covers Prompt Engineering concepts from **basic to advanced level**, with Python examples, Gemini API experiments, and an interactive notebook.
 
-#prompt engineer part - 1 :
-#https://www.youtube.com/watch?v=2n-RIgSNnwQ&t=3713s
+---
 
-#promput engineer part-2 :
-#https://www.youtube.com/watch?v=HvqtHmeblvQ
+## 🚀 About the Project
+
+Prompt Engineering is the process of designing effective instructions for Large Language Models (LLMs) to generate accurate, relevant, and useful responses.
+
+This project is created to understand Prompt Engineering step-by-step, starting from simple prompts and progressing toward advanced prompting techniques.
+
+### 🎯 Learning Path
+
+```text
+Basic Prompts
+     ↓
+Prompt Structure
+     ↓
+Role Prompting
+     ↓
+Few-Shot Prompting
+     ↓
+Chain-of-Thought
+     ↓
+Structured Output
+     ↓
+Prompt Optimization
+     ↓
+Gemini API
+     ↓
+Advanced Prompt Engineering
